@@ -161,7 +161,7 @@ html{
 #slider {
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/5.w3__Band/assets/img/slider/slider_1.jpg') top center / cover no-repeat;
+    background: url('https://www.w3schools.com/w3images/la.jpg') top center / cover no-repeat;
     position: relative;
 }
 
